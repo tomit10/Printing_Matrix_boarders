@@ -1,6 +1,6 @@
 # Printing Matrix borders
 
-This program will take the width and height as input, and generates a matrix with different types of border. 
+This program will take the width and height as input and generates a matrix, or two dimensions array, with different types of border/parentheses. 
 
 I attach some test cases.
 
@@ -17,11 +17,12 @@ I attach some test cases.
 ![screenshot 2018-11-14 at 07 13 34](https://user-images.githubusercontent.com/16061014/48467732-acf20480-e7e1-11e8-8dc7-6e5d4166bc96.png)
 
 ![screenshot 2018-11-14 at 07 12 48](https://user-images.githubusercontent.com/16061014/48467734-acf20480-e7e1-11e8-914f-eedc91f4be11.png)
-
+## Description
 The brief required to print a different type of parentheses, but the ASCII code didn't have the corresponding number. 
 
 The code is divided in two parts, the main, where all the input statement are saved and passed to the second part, the printMatrix function, which will load the two dimensions array with different types of parentheses and print it out. 
 
+### Loading function 
         for (int yA = 0; yA < matx.length; yA++)  //for loop row 
         {
             for (int xA = 0; xA < matx[yA].length; xA++) //for loop column 
@@ -62,5 +63,8 @@ The code is divided in two parts, the main, where all the input statement are sa
         
  I added a debug code section that can be used to revel the x and y coordinate of each cell.
 
+### Possible Improvements
 
+The aim of this program can be achieved using OOP(Object-oriented programming) in order to have a clearer coding structure. 
+I thought to create different images of the parentheses so that I can fulfill the requirements withpout using the ASCII code.    
 
