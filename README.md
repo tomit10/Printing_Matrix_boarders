@@ -1,4 +1,4 @@
-# Printing_Matrix_borders
+## Printing Matrix borders
 
 This program will take the width and height as input, and generates a matrix with different types of border. 
 
