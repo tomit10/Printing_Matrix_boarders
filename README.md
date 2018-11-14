@@ -58,7 +58,7 @@ The code is divided in two parts, the main, where all the input statement are sa
             }
         }
         
- I added a debug code section that could be used to revel the x and y coordinate of each cell.
+ I added a debug code section that can be used to revel the x and y coordinate of each cell.
 
 
 
