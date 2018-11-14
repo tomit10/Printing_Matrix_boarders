@@ -6,8 +6,6 @@ I attach some test cases.
 
 ![screenshot 2018-11-14 at 07 16 11](https://user-images.githubusercontent.com/16061014/48467671-7f0cc000-e7e1-11e8-99e1-ad8804e703e7.png)
 
-![screenshot 2018-11-14 at 07 16 00](https://user-images.githubusercontent.com/16061014/48467728-ac596e00-e7e1-11e8-9d38-102e1772cc55.png)
-
 ![screenshot 2018-11-14 at 07 15 21](https://user-images.githubusercontent.com/16061014/48467729-ac596e00-e7e1-11e8-8944-380778b004c5.png)
 
 ![screenshot 2018-11-14 at 07 14 03](https://user-images.githubusercontent.com/16061014/48467730-ac596e00-e7e1-11e8-9fba-8fca3c5f9726.png)
