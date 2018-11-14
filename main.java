@@ -52,7 +52,7 @@ public class main {
             	
             }
         }
-        						/**				PRINTING THE MATRIX				**/       
+        		/**				PRINTING THE MATRIX				**/       
         
         for (int xA = 0; xA <aX; xA++) 
         {
